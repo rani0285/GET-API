@@ -6,7 +6,7 @@ import static io.restassured.RestAssured.*;
 public class GetCallBDD {
 	
 	@Test
-	public void test_title()
+	public void test_Status()
 	{
 		given().
 		 when().
